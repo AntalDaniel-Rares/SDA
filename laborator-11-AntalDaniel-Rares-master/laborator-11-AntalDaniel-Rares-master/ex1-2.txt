@@ -1,0 +1,19 @@
+--------ex1--------
+Suma de bani: 78
+Restul este format din:
+1 X 50 lei
+2 X 10 lei
+1 X 5 lei
+3 X 1 lei
+A fost nevoie de 7 bancnote.
+
+--------ex2--------
+Suma de bani: 90
+Restul este format din:
+1 X 50 lei
+1 X 30 lei
+2 X 5 lei
+A fost nevoie de 4 bancnote.
+
+Tehnica greedy nu mai este optima in acest caz deoarece algoritmul incepe de la cele mai mari bancnote.
+Raspunsul corect este 3 bancnote: 30 30 30.
