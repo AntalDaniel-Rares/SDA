@@ -1,0 +1,520 @@
+Bucuresti Nord
+Videle
+Galateni
+Olteni
+Vartoapele hc
+Radoiesti Hm
+Atirnati
+Rosiori Nord
+Caracal
+Craiova
+Filiasi
+Strehaia hc
+Balota
+Drobeta Turnu Severin
+Orsova
+Baile Herculane
+Slatina Timis
+Caransebes
+Lugoj
+Timisoara Nord
+Arad
+Curtici
+Oradea
+Oradea Est
+Osorhei
+Tileagd
+Alesd
+Vadu Crisului
+Suncuius
+Bratca
+Stana de Vale hc
+Piatra Craiului
+Lacu Crisului h
+Negreni h
+Ciucea
+Valea Draganului hc
+Poieni
+Bologa hc
+Braisoru
+Huedin
+Aghires hc
+Aghires
+Garbau
+Cluj Napoca
+Baciu Triaj
+Radaia h
+Mera
+Bulz
+Doroltu hc
+Maneciu
+Gheaba 2
+Maneciu Pamanteni hc
+Izvoarele hc
+Homoriciu Hm
+Teisani
+Valeni Nord
+Valenii de Munte
+PO Gura Vitioarei
+Faget Teleajen
+Magurele Prahova N. hc
+Magurele Prahova
+Magurele Sud hc
+Lipanesti hc
+Boldesti hc
+Scaeni
+Blejoi
+Ploiesti Nord
+Ploiesti E. P. 1 h
+Ploiesti Sud
+Radomiresti
+Draganesti Olt
+Piatra Olt
+Dragasani
+Babeni
+Govora
+Ramnicu Valcea
+Calimanesti
+Pausa h
+Buftea
+Crivina
+Ploiesti Vest
+Campina
+Breaza hc
+Comarnic
+Sinaia
+Busteni
+Azuga
+Predeal
+Brasov
+Mizil
+Buzau
+Faurei
+Ianca
+Braila
+Barbosi
+Galati
+Lunca Ilvei
+Ilva Mare
+Magura Ilvei
+Poiana Ilvei
+Lesu Ilvei Hm
+Stramba h
+Ilva Mica
+Podereia Feldrului h.
+Feldru Hm
+Nepos hc
+Rebrisoara
+Nasaud
+Nasaud H
+Salva
+Mititei hc
+Nimigea
+Nimigea hc
+Mogoseni Hm
+Cociu hc
+Beclean pe Somes
+Sintereag
+Caila hc
+Sfantu hc
+Magherus Sieu
+Arcalia hc
+Saratel
+Bistrita Nord
+Suceag hc
+Nadasel hc
+Macau hc
+Galaseni hc
+Stana Hm
+Constanta
+Medgidia
+Cernavoda Pod
+Fetesti
+Ciulnita
+Bucuresti Baneasa
+Lehliu
+Fundulea
+Gradinari
+Darza hc
+Peris
+Scrovistea hc
+Brazi
+Buda
+Floresti Prahova
+Sinaia Sud hc
+Poiana Tapului hc
+Darste
+Codlea
+Fagaras
+Ucea
+Avrig
+Podu Olt
+Talmaciu
+Sibiu
+Zarnesti
+Zarnesti hc
+Tohanu Vechi Hm
+Rasnov hc
+Rasnov
+Cristian
+Bartolomeu
+Sfantu Gheorghe
+Baile Tusnad Hm
+Miercurea Ciuc
+Siculeni
+Izvoru Oltului
+Izvoru Muresului
+Gheorgheni
+Toplita
+Deda
+Dej Calatori
+Catcau
+Galgau
+Ileanda
+Rastoci
+Letca
+Jibou
+Benesat
+Ulmeni Salaj
+Miresu Mare hm
+Satulung pe Somes
+Baia Mare
+Timisu de Sus Hm
+Reghin
+Targu Mures
+Iasi
+Letcani
+Movileni hc
+Potingeni hc
+Larga Jijia
+Vladeni
+Iacobenii Vechi hc
+Soldana
+Andrieseni hc
+Rediu
+Rauseni hc
+Todireni
+Jijia hc
+Zlatunoaia
+Trusesti
+Buhaceni hc
+Dangeni
+Dangeni Nord hc
+Ungureni
+Mandresti hc
+Vorniceni
+Mateieni hc
+Corlateni hc
+Carasa hc
+Dorohoi
+Ramnicu Sarat
+Focsani
+Marasesti
+Adjud
+Bacau
+Roman
+Pascani
+Dolhasca
+Veresti
+Suceava
+Gura Humorului Oras
+Frasin
+Vama
+Campulung Est
+Campulung Moldovenesc
+Pojorata
+Mestecanis
+Iacobeni
+Vatra Dornei
+Vatra Dornei Bai h
+Nicolina
+Buhaiesti
+Vaslui
+Crasna
+Barlad
+Tecuci
+Barnova
+Tecuci Nord hc
+Aradu Nou
+Santana
+Chisineu Cris
+Ciumeghiu
+Salonta
+Sacuieni Bihor
+Valea lui Mihai
+Carei
+Satu Mare
+Odoreu
+Mediesu Aurit
+Apa
+Seini
+Rupea
+Sighisoara
+Dumbraveni
+Medias
+Copsa Mica
+Blaj
+Teius
+Aiud
+Razboieni
+Campia Turzii
+Valea Larga Hm
+Augustin
+Racos
+Unirea hc
+Suceava Nord
+Targu Frumos
+Gherla
+Alba Iulia
+Vintu de Jos
+Sibot
+Orastie
+Simeria
+Deva
+Ilia
+Savirsin
+Radna
+Parc Mogosoaia
+Urziceni
+Garbovi
+Cotorca
+Pogoanele
+Rusetu
+Titu
+Gaesti
+Golesti
+Pitesti
+Carbunesti
+Targu Jiu
+Valea Sadului
+Petrosani
+Banita
+Subcetate
+Calan
+Parc Divertisment Chiajna
+Stoenesti
+Craiova Triaj hc
+Turceni
+Rovinari
+Lainici
+Liesti
+Floreni
+Dej
+Vinga
+Sag Hm
+Pascani Triaj h
+Bals
+Slatina
+Stolnici
+Costesti
+Sibiu hc
+Turnisor
+Cristian Sibiu
+Orlat
+Sibiel hc
+Sacelu Sibiului hc
+Saliste
+Aciliu hc
+Apoldu de Sus
+Apoldu de Jos hc
+Miercurea Sibiu
+Baile Miercurea hc
+Cunta
+Cut hc
+Rahau hc
+Sebes Alba
+Sebes Glod hc
+Barabant
+Santimbru
+Santimbru hc
+Coslariu
+Ocna Sibiului
+Baile Ocna Sibiului hc
+Mandra h
+Loamnes Hm
+Hasag hc
+Veseud h
+Seica Mare hc
+Seica Mare
+Agarbiciu hc
+Axente Sever h
+Tarnava hc
+Petrosani Triaj h
+Pestera Bolii h.
+Merisor
+Crivadia
+Baru Mare hc
+Baru Mare
+Livadia hc
+Ponor hc
+Pui
+Rusor hc
+Baesti
+Ohaba de Sub Piatra hc
+Ciopea h
+Covragiu h
+Plopi h
+Bretea Streiului
+Maceu hc
+Rusi hc
+Calan Bai
+Batiz hc
+Bacia Hm
+Bacia hc
+Simeria Triaj
+Depoul Buc. Triaj h
+Chitila
+Prahova
+Ploiesti Triaj hc
+Bobolia h
+Nistoresti hc
+Breaza Nord
+Posada hc
+Timisu de Jos hc
+Pajura Hm
+Bucuresti Basarab
+Bucuresti Basarab h
+Carpati h
+Bucuresti Triaj hc
+Balnaca hc
+Vadu Crisului hc
+Butan Hm
+Alesd hc
+Tetchea hc
+Telechiu Hm
+Sabolciu hc
+Sacadat Hm
+Oradea Est Triaj h
+Utvinis hc
+Zimandu Nou hc
+Comlaus hc
+Simand
+Nadab
+Zerind
+Tamasda
+Boiu Bihor hc
+Madaras Bihor hc
+Cefa
+Les Bihor Hm
+Oradea Vest
+Ronat Triaj Gr. D
+Sinandrei
+Baile Calacea
+Ortisoara
+Valea Viilor Hm
+Utvinisu Nou Hm
+Gepiu hc
+Apahida
+Bontida
+Iclod
+Caseiu Hm
+Rus hc
+Cuciulat
+Babuteni
+Ciocmani hc
+Surduc Salaj
+Episcopia Bihor
+Cluj Napoca Est
+Dezmir hc
+Apahida h
+Jucu
+Jucu de Jos hc
+Rascruci hc
+Fundatura hc
+Livada Somes hc
+Nima hc
+Coplean hc
+Capalna pe Somes hc
+Galgau h
+Glodu Somesului
+Bizusa hc
+Var hc
+Domnesti pe Sieu hc
+Mariselu
+Barla pe  Sieu hc
+Sieu
+Sieut hc
+Monor Gledin
+Rapa de Jos Hm
+Morareni hc
+Poptelec hc
+Mirsid
+Zalau Nord
+Cuceu Salaj hc
+Baile Sarata Monteoru hc
+Ulmeni
+Clondiru
+Sahateni
+Inotesti
+Tomsani hc
+Cricov
+Muru hc
+Valea Calugareasca
+Ploiesti Est
+Topile hc
+Cristesti Pascani hc
+Timisesti
+Plaiesu hc
+Sfantu Mina
+Targu Neamt
+Darmanesti
+Milisauti
+Tibeni hc
+Dornesti
+Radauti Gara Mica h
+Radauti
+Horodnic hc
+Galanesti
+Vicov h
+Vicovu de Jos hc
+Vicovu de Sus hc
+Bivolaria hc
+Gura Putnei
+Putna Troita h
+Putna Centru h
+Putna
+Palas
+Valu lui Traian
+Murfatlar hc
+Basarabi
+Poarta Alba hc
+Dorobantu
+Castelu hc
+Mircea Voda
+Saligny Gr. Est
+Dunarea Hm
+Ovidiu
+Ramificatia Borcea
+Baraganu
+Stefan cel Mare hc
+Jegalia
+Recolta hc
+Perisoru
+Ogoarele hc
+Ivanesti hc
+Dragos Voda
+Bogdana h
+Dalga Hm
+Dor Marunt
+Dor Marunt Sat h
+Preasna Hm
+Sarulesti
+Mostistea hc
+Islaz
+Branesti
+Branesti Sat hc
+Pasarea
+Pantelimon
+Nicolae Balcescu
+Targusor Dobrogea
+Cogealac
+Mihai Viteazu
+Baia Dobrogea
+Ceamurlia de Jos Hm
+Babadag
+Zebil
+Mihail Kogalniceanu
+Cataloi
+Tulcea Marfuri
+Tulcea Oras
+Bordei hc
